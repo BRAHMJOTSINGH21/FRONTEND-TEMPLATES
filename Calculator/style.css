@@ -1,0 +1,31 @@
+button{
+  padding:5px;
+  width:75px;
+  height:45px;
+  background-color:#f9f9f9;
+  border:1px solid grey;
+  font-size:22px;
+}
+
+.op{
+  background-color:#de6834;
+  color:white;
+}
+
+#display{
+  border:1px solid red;
+  width:372px;
+  height:35px;
+  padding:12px 5px;
+  font-size:28px;
+  text-align:right;
+}
+
+.box{
+  border:2px solid lightgrey;
+  padding:20px;
+  width:380px;
+  box-shadow:1px 1px 3px grey;
+  margin: auto;
+  margin-top: 50px;
+}
